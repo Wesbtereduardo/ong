@@ -16,7 +16,7 @@ Site estático de uma ONG com foco em acessibilidade (WCAG 2.1 AA), desenvolvido
 - [Padrões de Versionamento](#padrões-de-versionamento)
 - [Issues, Milestones e Pull Requests](#issues-milestones-e-pull-requests)
 - [Roadmap](#roadmap)
-- [Contribuição](#contribuição)
+- [Versão](#Versão)
 - [Licença](#licença)
 
 ## Visão Geral
@@ -100,18 +100,17 @@ Já publicado (link no topo). Para configurar/ajustar:
   - `hotfix/*`: correções urgentes a partir de `main`.
 
 - Commits Semânticos:
+- link:https://github.com/Wesbtereduardo/ong-solidariedade/commits/main/
 
 
 ## Issues, Milestones e Pull Requests
 
-- Issues:
-
-- Milestones:
-  - Ex.: “Entrega IV” com escopo e data.
-  - Vincular issues à milestone.
-
-- Pull Requests:
+- Issues:https://github.com/Wesbtereduardo/ong-solidariedade/issues
+- Milestones:https://github.com/Wesbtereduardo/ong-solidariedade/milestones
+- Pull Requests:https://github.com/Wesbtereduardo/ong-solidariedade/pulls?q=is%3Apr+is%3Aclosed
  
+## Releases
+link:https://github.com/Wesbtereduardo/ong-solidariedade/releases
 
 ## Roadmap
 
@@ -136,3 +135,30 @@ Já publicado (link no topo). Para configurar/ajustar:
 - Link público:
   - Repositório: https://github.com/Wesbtereduardo/ong-solidariedade
   - GitHub Pages: https://wesbtereduardo.github.io/ong-solidariedade/
+  ## Versão
+  # 🎉 v1.0.0 - Lançamento Inicial
+
+Primeira versão estável da Plataforma ONG Solidariedade.
+
+## 🚀 Destaques
+- ✨ Sistema de navegação SPA
+- 📝 Formulário completo com validação
+- ♿ Acessibilidade WCAG 2.1 Nível AA
+- 🌙 Modo escuro e alto contraste
+- 📱 Design responsivo mobile-first
+- ⚡ Performance otimizada
+
+## ✨ Funcionalidades
+- Página inicial institucional
+- Catálogo de projetos sociais
+- Formulário de cadastro de voluntários
+- Sistema SPA com templates dinâmicos
+- Navegação por teclado completa
+- Validação de formulários em tempo real
+
+## 📚 Documentação
+- README profissional
+- Exemplos de commits/issues
+
+## ✅ Conformidade
+- W3C Validator: 100%
